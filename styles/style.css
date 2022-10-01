@@ -16,10 +16,14 @@
   background-color: #f2f2f2;
   position: relative;
   z-index: 1;
+  display:flex;
+  align-items: center;
+  justify-content: flex-end;
+
   /* выше установили ограничения для секции */
 }
 
-.logo_place_header{
+.logo{
 width: 228px;
 height: 32px;
 background-image: url(../images/logo_place_header.svg);
@@ -28,6 +32,25 @@ position:absolute;
 top: 30px;
 left: 64px;
 }
+
+.header__title{
+  width: 730px;
+  position:absolute;
+  left: 64px;
+}
+
+.header__main-illustration{
+  wmin-height: 600px;
+  max-height: 756px;
+  position: absolute;
+
+}
+.header__subtitle{
+  position: absolute;
+  left: 64px;
+  bottom: 30px;
+}
+
 /* ниже мы привели пример двух селекторов, чтобы вы вспомнили запись элемента */
 .header__square-pic {
   height: 568px;
