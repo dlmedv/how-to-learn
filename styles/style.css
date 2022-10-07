@@ -131,7 +131,6 @@
   font-size: 60px;
   font-weight: 600;
   text-align: center;
-
 }
 
 .section-subtitle {
@@ -142,7 +141,6 @@
   font-weight: normal;
   text-align: center;
   margin-top: 20px;
-
 }
 
 .table {
@@ -239,11 +237,8 @@
   padding-bottom: 90px;
   position: relative;
   overflow: hidden;
-
 }
 
-
-/* и элемента с модификатором вида ключ-значение */
 .table__cell_theme_dark {
   width: 200px;
   color: white;
