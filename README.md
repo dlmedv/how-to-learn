@@ -1,4 +1,4 @@
-# HOW TO LEARN
+# [HOW TO LEARN](https://dlmedv.github.io/how-to-learn/)
  Типовой одностраничный сайт.
 
 
